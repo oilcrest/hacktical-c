@@ -26,11 +26,16 @@ This book is an attempt to synthesize that experience.
 The content of this book is openly licensed via [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 ## Support
-I've decided to release the book using an open license to benefit as many as possible, because I believe knowledge should be shared freely.
-
-But I also believe in compensation for creators; and the less economic pressure I have to deal with, the more time and energy I can put into the project.
-
-The repository is set up for sponsoring via Stripe and Liberapay, alternatively you may use BTC (bitcoin:18k7kMcvPSSSzQtJ6hY5xxCt5U5p45rbuh) or ETH (0x776001F33F6Fc07ce9FF70187D5c034DCb429811). 
+### Bank
+#### BIC
+ESSESESSXXX
+#### IBAN
+SE1650000000051010274813
+### Crypto
+#### BTC
+05591292-b90c-405f-86d4-41017bbe4200
+#### ETH
+a6565dd2-fae0-4477-bbec-9f5324f5c1af
 
 ## Why C?
 The reason I believe C is and always will be important is that it stands in a class of its own as a mostly portable assembler, offering similar levels of freedom.
